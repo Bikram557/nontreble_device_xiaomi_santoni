@@ -1,1 +1,1 @@
-add_lunch_combo aosip_santoni-userdebug
+add_lunch_combo superior_santoni-userdebug

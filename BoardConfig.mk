@@ -29,6 +29,7 @@ TARGET_TS_MAKEUP := true
 
 # Kernel
 TARGET_KERNEL_CLANG_COMPILE := true
+TARGET_KERNEL_CLANG_VERSION := 9.0.8
 TARGET_KERNEL_CONFIG := santoni_defconfig
 
 # Init
